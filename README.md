@@ -50,5 +50,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=charles-togle&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles-togle&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesTogle&theme=radical" alt="GitHub Streak Stats" />
 </div>
