@@ -28,8 +28,10 @@ Since then I've shipped a multitenant fitness platform from scratch, got hired a
 
 | Project | What it does | Stack |
 |---|---|---|
-| **UMak-Link** | Lost & found platform for UMak. Gemini vision classifies images, PostgreSQL matches items. | React · Capacitor · FastifyJS · Supabase |
-| **Hope Hub** | Multitenant fitness ed platform. Active professor thesis project. Role-based access control. | React · PostgreSQL · Supabase |
+| **Odin** | Personal finance management system for Filipino young adults. ML-driven budgeting, forecasting & anomaly detection. Thesis project. | React Native · Expo · FastAPI · Supabase |
+| **KuponPH** | Philippines-focused coupon & sale aggregation site. Aggregates Shopee, Lazada, TikTok Shop promos. | React · Vite · FastifyJS · PostgreSQL · Supabase |
+| **HopeHub** | Multitenant fitness education platform. Active professor thesis. Role-based access control. | React · PostgreSQL · Supabase |
+| **GymBro** | Local-first workout logger. Capacitor Android shell with SQLite persistence. | React · Capacitor · SQLite · TypeScript |
 
 ---
 
