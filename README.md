@@ -6,7 +6,7 @@
 // full stack engineer · UMak · dean's lister · open for work
 ```
 
-[![Portfolio](https://img.shields.io/badge/↗_portfolio-charles--togle.vercel.app-18a87a?style=flat-square)](https://charles-togle.vercel.app)
+[![Portfolio](https://img.shields.io/badge/↗_portfolio-6digits.dev-18a87a?style=flat-square)](https://6digits.dev)
 [![LinkedIn](https://img.shields.io/badge/↗_linkedin-charles--nathaniel--togle-18a87a?style=flat-square)](https://www.linkedin.com/in/charles-nathaniel-togle-09858b350)
 [![Email](https://img.shields.io/badge/↗_email-charles3togle@gmail.com-18a87a?style=flat-square)](mailto:charles3togle@gmail.com)
 
