@@ -19,14 +19,35 @@ software & systems engineer · full stack · infrastructure · open for work
 </div>
 
 ---
-
 `// the story`
 
-In March 2024, I was afraid of learning React — afraid I'd start something and quit again.
+In March 2024, I was afraid my work would be sloppy and wouldn't work.
 
-**I did it anyway.**
+**I was right.**
 
-Since then, I've shipped production systems, automated work equivalent to roughly **5 FTEs**, migrated infrastructure across AWS and Linux, architected databases handling **460K+ records**, and led real client projects — all while still in college.
+It was sloppy. It broke. I didn't know what I was doing half the time.
+
+But I kept rebuilding, learning, and trying again. Eventually, things started working, and I've been improving ever since.
+
+That pattern followed me into professional work.
+
+While working with a production CRM containing **460K+ records**, I was afraid the system I'd built wasn't good enough.
+
+**I was right again.**
+
+It worked, but when a senior engineer audited it, he found holes in my database design. Instead of defending it or getting discouraged, I rebuilt it.
+
+I created a local copy of the production schema and data, designed a new schema around his feedback and proper database principles, then wrote SQL migration scripts to **deduplicate, clean, transform, and migrate the data**.
+
+I tested the migration locally until it passed, then ran it against production.
+
+**460K+ records migrated. No data loss. No downtime.**
+
+That's probably the biggest lesson I've learned as an engineer:
+
+**Your first solution doesn't have to be good. You just have to be willing to find out why it isn't — and build the next one better.**
+
+Since then, I've shipped production systems, automated work equivalent to roughly **5 FTEs**, worked across AWS and Linux infrastructure, and led real client projects. All while still in college.
 
 I like building things that survive outside the demo.
 
